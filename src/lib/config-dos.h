@@ -5,6 +5,7 @@
 /* ================================================================
  *       ares/config-dos.h - Hand crafted config file for DOS
  *
+ * Copyright (C) The c-ares project and its contributors
  * SPDX-License-Identifier: MIT
  * ================================================================ */
 
