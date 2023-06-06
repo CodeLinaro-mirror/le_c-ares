@@ -1,0 +1,14 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: c-ares
+Upstream-Contact: The c-ares team <c-ares@lists.haxx.se>
+Source: https://c-ares.org/
+
+# Fuzzer data
+Files: test/fuzzinput/*
+Copyright: The c-ares project and its contributors.
+License: MIT
+
+# Docs
+Files: AUTHORS CHANGES CHANGES.0 CONTRIBUTING.md GIT-INFO NEWS README.cares README.md README.msvc RELEASE-NOTES RELEASE-PROCEDURE.md SECURITY.md
+Copyright: The c-ares project and its contributors.
+License: MIT
